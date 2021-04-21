@@ -2,11 +2,11 @@
 My attempt at creating an atomic scale which evaluates media using standardized definitions to promote consistent understanding and widespread usage.
 
 # **Table of Contents**
-- **Writing Mechanics**
-- **World Building**
-- **Directing**
-- **Density**
-- **Biases**
+- [Writing Mechanics](#writing-mechanics)
+- [World Building](#world-building)
+- [Directing](#directing)
+- [Density](#density)
+- [Biases](#biases)
 
 # Writing Mechanics
 ## Internal Consistency
