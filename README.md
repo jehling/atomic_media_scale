@@ -12,14 +12,15 @@ My attempt at creating an atomic scale which evaluates media using standardized 
 # **Writing Mechanics**
 ## Internal Realism
 **1. Stable Logic Jumps**
+> But can they beat Goku?
 
-Narrative maintains suspension of disbelief by constructing logical precedents or reference points for future events.
+A narrative maintains suspension of disbelief by constructing logical precedents or reference points for future events.
 
 - Suppose three enemies exist such that their power scaling is A < B < C. If the protagonist cannot defeat A, they should not be capable of defeating B or C under normal circumstances. 
 
-- Once the protagonist defeats A, they are then clear to power scale to fight B. They still cannot fight C. 
+- If a mechanic performs X function, it should *always* perform X function. 
 
-- Only after scaling to defeat B, thus defeating A by extension, will the protagonist be capable of fighting C. 
+- If a mechanic evolves, the established world must offer a plausible explanation for what triggered said evolution. 
 
 **2. Consistent Character Behavior**
 
