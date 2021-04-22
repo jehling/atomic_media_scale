@@ -50,7 +50,7 @@ The story should react in a similar manner. Large events within the world impact
 
 Whenever a significant event occurs within a story, there should be a lasting reminder of what occurred. 
 
-- If a character wipes a village off the map, they should not then undo all of the damage they caused.
+- If a character wipes a village off the map, they should not then immediately undo all of the damage they caused.
 - If a character dies, they stay dead.
 - If a character is brought back to life, the experience permanently changes them in some meaningful way. (See **Equivalent Exchange**)
 
